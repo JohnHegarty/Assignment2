@@ -1,3 +1,3 @@
 # Assignment2
 
-<bold>Stroodel's fitness app</bold>
+# Stroodel's fitness app
