@@ -9,4 +9,4 @@
 
 # https://ddaygithub.github.io/DDayAssignment1/
 
-# https://github.com/ierdz/MyProfile/
+# https://ierdz.github.io/MyProfile/
